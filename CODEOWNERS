@@ -1,0 +1,8 @@
+# Global ownership
+* @flaviopiccolo-boop
+
+# Infrastructure ownership
+/terraform/ @flaviopiccolo-boop
+/ansible/ @flaviopiccolo-boop
+/scripts/ @flaviopiccolo-boop
+/docs/ @flaviopiccolo-boop
