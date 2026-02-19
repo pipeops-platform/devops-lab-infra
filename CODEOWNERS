@@ -1,8 +1,8 @@
 # Global ownership
-* @flaviopiccolo-boop
+* @pipeops-platform/reviewers
 
 # Infrastructure ownership
-/terraform/ @flaviopiccolo-boop
-/ansible/ @flaviopiccolo-boop
-/scripts/ @flaviopiccolo-boop
-/docs/ @flaviopiccolo-boop
+/terraform/ @pipeops-platform/reviewers
+/ansible/ @pipeops-platform/reviewers
+/scripts/ @pipeops-platform/reviewers
+/docs/ @pipeops-platform/reviewers
